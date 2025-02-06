@@ -1,1 +1,3 @@
-# Lotfti433
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/yazlaigi" alt="yazlaigi's 42 stats" /></a>
+</p>
