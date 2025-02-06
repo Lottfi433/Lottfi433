@@ -18,8 +18,9 @@ Currently, I am working on `Push_swap`.
 - **Finance & Accounting:** Background in Economics (BAC +3)
 
 ## :rocket: Projects
+- **Libft** - Custom C standard library implementation.
 - **ft_printf** - Custom implementation of printf.
-- **ft_split** - String splitting function adhering to 42 norms.
+- **get_Next_line** - Efficient function to read a line from a file descriptor.
 - **Born2beroot** - Linux system setup & security hardening.
 - **so_long** - 2D game project using minilibX.
 
