@@ -6,13 +6,13 @@
 ## :man_student: About Me
 I am a **computer science student at 1337**, passionate about low-level programming, Linux, and cybersecurity.  
 I have successfully completed foundational projects like `Libft`, `ft_printf`, `Get_Next_Line`, `so_long`, `minitalk`, 
-`push_swap` 
-Currently, I am working on `Minishell`.
+`push_swap`, `Minishell` and `Philosophers`.
+Currently, I am working on `cub3d`.
 
 ## :computer: Technical Skills
 - **Low-Level Programming:** C, Function Pointers, Variadic Functions
 - **System Administration:** Linux (Debian), Networking, Cybersecurity
-- **Algorithms & Data Structures:** Sorting, Memory Management
+- **Algorithms & Data Structures:** Sorting, Memory Management, Multithreading
 - **Finance & Accounting:** Background in Economics (BAC +3)
 
 ## :rocket: Projects
@@ -23,6 +23,9 @@ Currently, I am working on `Minishell`.
 - **so_long** - 2D game project using minilibX.
 - **Push_swap** - Sorting algorithm project using stacks.
 - **Mini_talk** - Advanced inter-process communication project using Unix signals to send messages between processes.
+- **Philosophers** - Multithreading project simulating the dining philosophers problem.
+- **Minishell** - Unix shell implementation handling built-in commands, piping, and redirections.
+- **cub3d** (In Progress) - 3D game project using raycasting techniques.
 
 ## :mailbox: Connect with Me
 - :small_blue_diamond: **GitHub:** [github.com/yazlaigi](https://github.com/yazlaigi)
