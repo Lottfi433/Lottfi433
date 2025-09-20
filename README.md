@@ -28,6 +28,6 @@ Currently, I am working on `cub3d`.
 - **cub3d** (In Progress) - 3D game project using raycasting techniques.
 
 ## :mailbox: Connect with Me
-- :small_blue_diamond: **GitHub:** [github.com/yazlaigi](https://github.com/yazlaigi)
+- :small_blue_diamond: **Discord id:** lotfi007
 - :small_blue_diamond: **LinkedIn:** [Linkedin/yasser-zlaigi](https://www.linkedin.com/in/yasser-zlaigi-879a24282/)
 - :small_blue_diamond: **Email:** [yasserzlaigi7@gmail.com](mailto:yasserzlaigi7@gmail.com)
