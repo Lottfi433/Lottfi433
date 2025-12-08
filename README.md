@@ -6,8 +6,8 @@
 ## :man_student: About Me
 I am a **computer science student at 1337**, passionate about low-level programming, Linux, and cybersecurity.  
 I have successfully completed foundational projects like `Libft`, `ft_printf`, `Get_Next_Line`, `so_long`, `minitalk`, 
-`push_swap`, `Minishell` and `Philosophers`.
-Currently, I am working on `cub3d`.
+`push_swap`, `Minishell`, `Philosophers` and `cub3d`.
+Currently, I am moving into `C++ development` and working on the `CPP` Modules.
 
 ## :computer: Technical Skills
 - **Low-Level Programming:** C, Function Pointers, Variadic Functions
@@ -25,7 +25,8 @@ Currently, I am working on `cub3d`.
 - **Mini_talk** - Advanced inter-process communication project using Unix signals to send messages between processes.
 - **Philosophers** - Multithreading project simulating the dining philosophers problem.
 - **Minishell** - Unix shell implementation handling built-in commands, piping, and redirections.
-- **cub3d** (In Progress) - 3D game project using raycasting techniques.
+- **cub3d** 3D game project using raycasting techniques.
+- **CPP Modules** Currently working on modern C++ fundamentals.
 
 ## :mailbox: Connect with Me
 - :small_blue_diamond: **Discord id:** lotfi007
