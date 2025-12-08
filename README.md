@@ -7,6 +7,7 @@
 I am a **computer science student at 1337**, passionate about low-level programming, Linux, and cybersecurity.  
 I have successfully completed foundational projects like `Libft`, `ft_printf`, `Get_Next_Line`, `so_long`, `minitalk`, 
 `push_swap`, `Minishell`, `Philosophers` and `cub3d`.
+
 Currently, I am moving into `C++ development` and working on the `CPP` Modules.
 
 ## :computer: Technical Skills
