@@ -34,4 +34,3 @@ Currently, I am moving into `C++ development` and working on the `CPP` Modules.
 - :small_blue_diamond: **Discord id:** lotfi007
 - :small_blue_diamond: **LinkedIn:** [Linkedin/yasser-zlaigi](https://www.linkedin.com/in/yasser-zlaigi-879a24282/)
 - :small_blue_diamond: **Email:** [yasserzlaigi7@gmail.com](mailto:yasserzlaigi7@gmail.com)
-https://drive.google.com/file/d/1DJU3knvxRV66h3xFKE-ia3mtQVFfGkR-/view?usp=sharing
